@@ -1,1 +1,2 @@
 c:\users\server\documents\visual studio 2015\Projects\form1\form1\bin\Debug\form1.exe.config
+C:\Users\Server\Documents\GitHub\SistemasSSS\sistemasudeo\form1\bin\Debug\form1.exe.config
