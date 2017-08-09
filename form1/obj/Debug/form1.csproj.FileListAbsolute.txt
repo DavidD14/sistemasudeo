@@ -20,3 +20,5 @@ C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.csproj.Gener
 C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.exe.licenses
 C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.exe
 C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.pdb
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.evento.resources
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.XtraForm1.resources

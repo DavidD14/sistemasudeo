@@ -16,7 +16,7 @@ namespace form1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new XtraForm1());
+            Application.Run(new evento());
         }
     }
 }
