@@ -11,9 +11,9 @@ using DevExpress.XtraEditors;
 
 namespace form1
 {
-    public partial class frmtipo : DevExpress.XtraEditors.XtraForm
+    public partial class XtraForm1 : DevExpress.XtraEditors.XtraForm
     {
-        public frmtipo()
+        public XtraForm1()
         {
             InitializeComponent();
         }

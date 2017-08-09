@@ -1,2 +1,22 @@
 c:\users\server\documents\visual studio 2015\Projects\form1\form1\bin\Debug\form1.exe.config
 C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\form1.exe.config
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\form1.exe
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\form1.pdb
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\Microsoft.CSharp.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Data.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Deployment.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Drawing.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Net.Http.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Windows.Forms.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Xml.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\bin\Debug\System.Xml.Linq.dll
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.csprojResolveAssemblyReference.cache
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.Form1.resources
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.frmprincipal.resources
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.Properties.Resources.resources
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.csproj.GenerateResource.Cache
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.exe.licenses
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.exe
+C:\Users\medvar\Documents\GitHub\sistemasudeo\form1\obj\Debug\form1.pdb

@@ -1,6 +1,6 @@
 ﻿namespace form1
 {
-    partial class frmtipo
+    partial class XtraForm1
     {
         /// <summary>
         /// Required designer variable.
@@ -30,7 +30,7 @@
         {
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Text = "frmtipo";
+            this.Text = "XtraForm1";
         }
 
         #endregion
